@@ -76,22 +76,6 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Craig Lucas
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Contact**: [LinkedIn – Craig Lucas Jr.](https://www.linkedin.com/in/craig-lucas-jr-2a6352229/)
 - **Date**: May 10, 2025
-
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
-
----
-
-## Additional Notes:
-- **None**
-
----
-
-## Revision History:
-| **Version** | **Changes**                   | **Date**         | **Modified By**   |
-|-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+ 
