@@ -1,15 +1,27 @@
-# threat-hunting-scenario-tor
 <img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
 
-# Threat Hunt Report: Unauthorized TOR Usage
-[Scenario Creation](https://github.com/CraigLucas-0924/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
+## 🔍 Summary
 
+This project simulates a real-world threat hunting engagement focused on detecting unauthorized use of the Tor browser on a corporate endpoint. Leveraging Microsoft Defender for Endpoint and Kusto Query Language (KQL), the scenario demonstrates how to uncover signs of anonymizing software, investigate behavioral indicators, and summarize findings for executive reporting.
 
-## Platforms and Languages Leveraged
-- Windows 10 Virtual Machines (Microsoft Azure)
-- EDR Platform: Microsoft Defender for Endpoint
-- Kusto Query Language (KQL)
-- Tor Browser
+---
+
+## 🧰 Tools & Technologies
+- **Microsoft Defender for Endpoint (MDE)**  
+- **Kusto Query Language (KQL)**  
+- **Azure-hosted Windows 10 VMs**  
+- **Tor Browser**
+
+---
+
+## 🎯 Skills Demonstrated
+- Endpoint telemetry analysis (file, process, and network events)
+- Behavioral detection using KQL
+- IOC correlation and timeline reconstruction
+- Executive-level incident reporting
+- Threat identification in a hybrid enterprise environment
+
+---
 
 ##  Scenario
 
